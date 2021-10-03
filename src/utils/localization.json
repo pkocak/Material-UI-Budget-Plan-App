@@ -1,0 +1,68 @@
+{
+  "base": {
+    "en": {
+      "name": "Name",
+      "income_or_expense": "Income / Expense",
+      "currency": "Currency",
+      "amount": "Amount",
+      "income": "Income",
+      "expense": "Expense",
+      "delete_row": "Delete Row?",
+      "delete_row_alert": "You can't take back this action!",
+      "edit_row": "Edit Row",
+      "add_row": "Add Row"
+    },
+    "tr": {
+      "name": "İsim",
+      "income_or_expense": "Gelir / Gider",
+      "currency": "Para Birimi",
+      "amount": "Miktar",
+      "income": "Gelir",
+      "expense": "Gider",
+      "delete_row": "Satır Silinsin mi?",
+      "delete_row_alert": "Bu eylemi geri alamazsınız!",
+      "edit_row": "Satırı Düzenle",
+      "add_row": "Satır Ekle"
+    }
+  },
+  "components": {
+    "en": {
+      "save": "Save"
+    },
+    "tr": {
+      "save": "Kaydet"
+    }
+  },
+  "error": {
+    "en": {
+      "required": "This field is required*",
+      "number": "This field must contains numbers only*",
+      "positive": "This field must contain positive numbers only*"
+    },
+    "tr": {
+      "required": "Bu alan zorunludur*",
+      "number": "Bu alana sadece rakam girilebilir*",
+      "positive": "Bu alana sadece pozitif rakam girilebilir*"
+    }
+  },
+  "table": {
+    "en": {
+      "income": "Income",
+      "expense": "Expense",
+      "action": "Action",
+      "total": "Total: ",
+      "add_new_row": "Add New Row",
+      "number_of_rows": "Number of Rows",
+      "search": "Search"
+    },
+    "tr": {
+      "income": "Gelir",
+      "expense": "Gider",
+      "action": "Eylem",
+      "total": "Toplam: ",
+      "add_new_row": "Yeni Satır Ekle",
+      "number_of_rows": "Satır Sayısı",
+      "search": "Ara"
+    }
+  }
+}

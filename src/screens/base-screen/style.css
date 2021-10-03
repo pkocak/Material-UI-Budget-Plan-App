@@ -1,0 +1,17 @@
+.baseScreen {
+  width: 100vw;
+  height: 100vh;
+}
+
+.screenContent {
+  width: 100%;
+  height: calc(100% - 64px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.screenInnerContent {
+  width: 90%;
+  height: 85%;
+}
